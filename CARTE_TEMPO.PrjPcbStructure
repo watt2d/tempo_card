@@ -1,0 +1,3 @@
+Record=TopLevelDocument|FileName=main.SchDoc|SheetNumber=1
+Record=SheetSymbol|SourceDocument=main.SchDoc|Designator=µc|SchDesignator=µc|FileName=TEMPO_microcontrolleur.SchDoc|SheetNumber=2|SymbolType=Normal|RawFileName=TEMPO_microcontrolleur.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=TEMPO_microcontrolleur.SchDoc|Designator=Alimentation|SchDesignator=Alimentation|FileName=alimentation.SchDoc|SheetNumber=3|SymbolType=Normal|RawFileName=alimentation.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
